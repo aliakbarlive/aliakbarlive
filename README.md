@@ -71,7 +71,7 @@ Full Stack JavaScript / TypeScript developer focused on the MERN stack. I build 
 </details>
 
 <details>
-<summary><strong>chat_app</strong> — Real-time MERN chat application</summary>
+<summary><strong>chat-app</strong> — Real-time MERN chat application</summary>
 
 **Tech:** Node.js, Express, MongoDB, Socket.io
 
