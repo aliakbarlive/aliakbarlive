@@ -53,7 +53,7 @@ Full Stack JavaScript / TypeScript developer focused on the MERN stack. I build 
 - Backend-first structure for building e-commerce API modules
 - Designed to be extended with authentication, products, orders, and payment workflows
 
-**Repository:** [aliakbarlive/nodejs-ecomerce-boilerplate-typescript](https://github.com/aliakbarlive/nodejs-ecomerce-boilerplate-typescript)
+**Repository:** [aliakbarlive/nodejs-ecommerce-boilerplate-typescript](https://github.com/aliakbarlive/nodejs-ecommerce-boilerplate-typescript)
 
 </details>
 
@@ -79,7 +79,7 @@ Full Stack JavaScript / TypeScript developer focused on the MERN stack. I build 
 - Real-time communication flow between users
 - Can be extended with authentication, message persistence, read receipts, and notifications
 
-**Repository:** [aliakbarlive/chat_app](https://github.com/aliakbarlive/chat_app)
+**Repository:** [aliakbarlive/chat-app](https://github.com/aliakbarlive/chat-app)
 
 </details>
 
