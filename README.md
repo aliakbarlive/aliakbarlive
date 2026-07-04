@@ -9,6 +9,7 @@ Full Stack JavaScript / TypeScript developer focused on the MERN stack. I build 
 - E-commerce backends and admin/CMS platforms
 - Real-time features (chat, notifications) using Node.js
 - Frontend interfaces with React and Next.js
+- Third-party API and service integrations (payments, auth providers, cloud services)
 
 ## Tech Stack
 **Languages:** JavaScript, TypeScript
